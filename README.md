@@ -11,7 +11,7 @@ Tools to ease the use of Session Manager.
 ```
 
 # Creating Sample Resources
-**Warning: Execute the following to create 10 EC2 instances of t3.nano.**
+**Warning: Running the following will create 10 instances of t3.nano.**
 
 Create an EC2 instance to test this tool.
 
